@@ -16,9 +16,6 @@ I am currently learning and creating projects with:
 <a href="https://www.linkedin.com/in/raphael-augusto-788a22148/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" margin-left="10px"/>
 <a/>
-<a href="https://www.instagram.com/ribeiro_rapha/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"/>
-</a>
 <br />
 <br />
 <br />
